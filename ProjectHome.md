@@ -1,0 +1,1 @@
+Dynamic detection of bad smells in Java.
